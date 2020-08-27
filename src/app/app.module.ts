@@ -11,12 +11,14 @@ import { NopagefoundComponent } from '../app/nopagefound/nopagefound.component';
 
 
 
+
 //auth.module.ts
 
 @NgModule({
   declarations: [
     AppComponent,
-    NopagefoundComponent
+    NopagefoundComponent,
+
     
     ],
   imports: [
